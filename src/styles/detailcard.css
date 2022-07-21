@@ -1,0 +1,36 @@
+* {
+    margin:0;
+    padding:0;
+ }
+ /*Font family card*/
+ .infoDetail {
+    font-family: PT Sans;
+ }
+ /*Font style cargo disponible*/
+ .cargo {
+    font-size: 1.5rem;
+    font-weight: bolder;
+ }
+ /*Font style empresa*/
+ .nameCompany {
+    font-size: 1rem;
+    color: #7876C2;
+ }
+ /*Border style form*/
+ .form-control{
+    border-radius: 50px;
+    border-color:#7876C2;
+ }
+  
+ .rounded-pill {
+    background-color: #7876C2;
+    border-style: none;
+    line-height: 34px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+ }
+  
+ .rounded-pill:hover {
+    background-color:#B560F1;
+ }
+ 

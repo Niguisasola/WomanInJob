@@ -1,22 +1,57 @@
 .carousel {
-    margin-bottom: 0;
+	margin-bottom: 0;
 	padding: 0 40px 30px 40px;
-}
-/* Reposition the controls slightly */
-.carousel-control {
+ }
+ /* Reposition the controls slightly */
+ .carousel-control {
 	left: -12px;
-}
-.carousel-control.right {
+ }
+ .carousel-control.right {
 	right: -12px;
-}
-/* Changes the position of the indicators */
-.carousel-indicators {
+ }
+ /* Changes the position of the indicators */
+ .carousel-indicators {
 	bottom: 50px;
-}
-/* Changes the colour of the indicators */
-.carousel-indicators li {
+ }
+ /* Changes the colour of the indicators */
+ .carousel-indicators li {
 	background: #c0c0c0;
-}
-.carousel-indicators .active {
-background: #333333;
-}
+ }
+ .carousel-indicators .active {
+ background: #333333;
+ }
+  
+ /*Titles of jobs and ofer company*/
+  
+ .navOffers {
+	padding-top: 5%;
+	padding-left: 10%; 
+	display: flex;
+	flex-direction: row;
+	font-family: PT Sans;
+	color: #7876C2;
+ }
+  
+ .offer {
+	font-size: 2rem;
+	line-height: 78px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+ }
+  
+ .imCompany {
+	padding-left: 50%;
+	font-size: 1.2rem;
+	line-height: 52px;
+	text-transform: lowercase;
+ }
+  
+ .offerJobs {
+	padding-right: 10%;
+	padding-left: 1%;
+	padding-top: 1.1%;
+	font-size: 1.2rem;
+	color: #B560F1;
+  
+ }
+ 

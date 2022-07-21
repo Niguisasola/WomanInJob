@@ -2,26 +2,23 @@
    padding-left: 2%;
    padding-right: 3%;
  }
- .text{
- padding: auto;
+  
+ .navbar-collapse {
  font-family:"PT Sans";
- color: #B560F1;
+ font-size: 1.2rem;
+ font-weight: bolder;
+ padding-left: 550px;
+ color: #7876C2;
  }
-  .text:hover{
-    padding: auto;
-    font-family:Arial, Helvetica, sans-serif;
-    color: #7113b5;
+  
+ .navbar-collapse:hover {
+    color: #B560F1;
     }
   
- .form-control {
-   width: 50px;
- }  
-  .form{
+ input.form-control {
     border: solid 1px #B560F1;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
+    width: 300px;
+    height: 30px;
   }
   /*.banner{
     margin: 1%;
@@ -29,11 +26,9 @@
   .banner img{
     width:100%;
  }*/
-  
-  footer{
-    height: 20%;
-    padding: 2%;
-    background: #B560F1;
+   footer{
+    height: 5%;
+    background: #7876C2;
  }
  .foot{
     text-align: center;
@@ -48,11 +43,11 @@
  .social i{
     padding: 2%;
  }
- 
  .search {
     max-width: 30px;
  }
-
+  
  .bar {
    width: 300px;
  }
+ 
