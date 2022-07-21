@@ -3,6 +3,7 @@
 import { Link } from "react-router-dom";
 import Address from "../../../assets/data/img/Address.png";
 import Megaphone from "../../../assets/data/img/Megaphone.png";
+import '../../../styles/card.css';
 
 function JobItem({ jobName, companyName, companyLink, hsPublished, jobLocation, onSiteOrRemote, description, datePublished, jobType }) 
 {

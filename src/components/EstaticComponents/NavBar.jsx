@@ -23,8 +23,8 @@ function NavBar (){
              </li>
            </ul>
          </div>
-           <form className="d-flex bar" role="search">
-                 <input className="form-control" type="search" aria-label="Search"></input>
+           <form className="d-flex search-bar" role="search">
+                 <input className="form-control rounded-pill" type="search" aria-label="Search"></input>
                  <button className="btn btn-outline-success" type="submit"><img className="search" src={lupa}></img><i className="fa-solid fa-search"></i></button>
            </form>
        </nav>
