@@ -21,9 +21,11 @@ function ListCardJob (){
                     jobList.map((item, index)=>(
                         <JobCardItem
                             key={index} 
+                            id={item.id}
                             jobName={item.jobName} 
                             companyName={item.companyName} 
                             companyLink={item.companyLink}
+                            companyLogo={item.companyLogo}
                             hsPublished={item.hsPublished} 
                             JobSalaryRange={item.JobSalaryRange} 
                             jobTitle={item.jobTitle} 
