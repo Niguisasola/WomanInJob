@@ -5,17 +5,17 @@ El proyecto está pensado con un fin social que busque ayudar a una minoría com
 El nombre está pensado mayoritariamente como un juego de palabras en donde “Win” viene del anglicismo “ganar” y “Job” de trabajo. La primera W siempre en mayúscula va a representar a las mujeres del anglicismo “women”. 
 <br>
 <br>
-## Tabla de contenidos
-1. [Información General](#general-info)
-2. [Instalación](#Instalación)
-3. [Tecnologías](#Tecnologías)
-4. [Autores](#Autores)
-5. [Licencia](#Licencia)
 
-![Alt text]()
-Imagen 1: Página principal.
+
+![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 <br>
-<br>
+
+## Tabla de contenidos
+1. [Instalación](#Instalación)
+2. [Tecnologías](#Tecnologías)
+3. [Autores](#Autores)
+4. [Licencia](#Licencia)
+
 
 ## Instalación
 Puedes instalarlo desde npm
@@ -30,8 +30,7 @@ $ npm start
 ***
 Una lista de las tecnologías utilizadas en el proyecto:
 * [Node.Js](https://nodejs.org/es/): Version v16.16.0
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+
 <br>
 
 ## Autores
