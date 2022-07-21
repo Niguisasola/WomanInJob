@@ -1,8 +1,12 @@
 body{
-    /* margin-top: 10vw;
-    display: flex; */
+    
     justify-content: center;
   }
+
+.container-header{
+  margin-top: 10vw;
+    display: flex;
+}
   
 header{
     display: flex;
@@ -37,8 +41,8 @@ h1{
   }
   
   input{
-    border-radius: 2vw; /*important*/
-    width: 60vw; /*important*/
+    border-radius: 2vw !important;
+    width: 60vw !important;
     border: 1px solid black;
   }
   
