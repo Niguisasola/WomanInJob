@@ -1,0 +1,47 @@
+* {
+    margin:0;
+    padding:0;
+ }
+
+ .cardDetail {
+    margin: 100px 0 0 100px;
+    padding-left: 5%;
+    padding-top: 5%;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px;
+    width: 80%;
+    font-family: PT Sans;
+    
+ }
+
+ .card-text {
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 41px;
+    color: #2E2E34;
+ }
+
+ .card-publish {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 41px;
+    color: #7876C2;
+ }
+
+.iconsList,
+.iconsList1 {
+    list-style: none;
+}
+
+.iconsList {
+    padding: 30px 0 0 0;
+}
+
+.iconsList1 {
+    padding-left: 20px;
+}
+
+
+.bi {
+    padding-right: 10px;
+}
