@@ -1,0 +1,80 @@
+{
+    "joblist": [
+        {
+            "idJob": 1,
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHZYW658T5wnQ/company-logo_200_200/0/1656668414307?e=1666224000&v=beta&t=vNs0GLtKRYzkuFU7ZVpxuH8sctq8MmsGKxFITHUOiuI",
+            "jobName": "BackUp Engineer",
+            "companyName": "NTT DATA Europe & Latam",
+            "companyLink": "https://es.nttdata.com/",
+            "hsPublished": "Hace 12 horas",
+            "jobLocation": "Barcelona Metropolitana",
+            "jobTitle": "Mid-Senior",
+            "onSiteOrRemote": "Híbrido",
+            "jobSalaryRange": "(a consultar)",
+            "isbn": "9788237635286",
+            "datePublished": "21 de Julio 2022",
+            "jobType": "Tiempo Completo",
+            "description": ""
+            },{
+            "idJob": 2,
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQG7UdOEvgDdbg/company-logo_200_200/0/1654870457151?e=1666224000&v=beta&t=CuBulpg5fR0PWNNZ4iKaCqCh7vsPPIdOc_zHcYlJAVchttps://c0.klipartz.com/pngpicture/385/266/gratis-png-caramelo-aplastar-saga-papa-pera-saga-rey-logo-videojuego-rey.png",
+            "jobName": "Senior C++ Developer | Game Tech - Portfolio games",
+            "companyName": "King",
+            "companyLink": "https://careers.king.com/",
+            "hsPublished": "Hace 3 horas",
+            "jobLocation": "Barcelona, Catalunya, España",
+            "jobTitle": "Senior",
+            "onSiteOrRemote": "Remoto",
+            "jobSalaryRange": "(a consultar)",
+            "isbn": "9788437640732",
+            "datePublished": "22 de Julio 2022",
+            "jobType": "Tiempo Completo",
+            "description": ""
+            },{
+            "idJob": 3,
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHNmPM5niqmsg/company-logo_200_200/0/1656657060678?e=1666224000&v=beta&t=U1q5SPMAwF3Gs2UlT-F0NtiTWIT1z2jKyBC9SC9GX_U",
+            "jobName": "Desarrolladora Front WebComponents",
+            "companyName": "SNGULAR",
+            "companyLink": "https://www.sngular.com/es/",
+            "hsPublished": "Hace 23 horas",
+            "jobLocation": "Madrid, Comunidad de Madrid",
+            "jobTitle": "Senior",
+            "onSiteOrRemote": "Remoto",
+            "jobSalaryRange": "38K - 55K",
+            "isbn": "9718415642855",
+            "datePublished": "21 de Julio 2022",
+            "jobType": "Media Jornada",
+            "description": ""
+            },{
+            "idJob": 4,
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQErVO2UONearg/company-logo_200_200/0/1657040273354?e=1666224000&v=beta&t=-7AytUsS1k_0HDbgev2Q59MJutnvLYZGwTFDn8wtu6Y",
+            "jobName": "Frontend Developer",
+            "companyName": "Geek Square",
+            "companyLink": "https://geeksquare.live/",
+            "hsPublished": "Hace 2 horas",
+            "jobLocation": "Barcelona, Catalnuya, España",
+            "jobTitle": "Entry level",
+            "onSiteOrRemote": "Hybrid",
+            "jobSalaryRange": "€21.000 - €24.000",
+            "isbn": "9788486098914",
+            "datePublished": "22 de Julio 2022",
+            "jobType": "Media Jornada",
+            "description": ""
+            },{
+            "idJob": 5,
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFP9Lfi0W9zxw/company-logo_200_200/0/1547402731592?e=1666224000&v=beta&t=jLD6eCUbHuugzVsUfnQ_OEJoKVUYZ9HVlo6SvoXBuT0",
+            "jobName": "Desarrolladora Full Stack",
+            "companyName": "Bisiesto Estudio 366º ",
+            "companyLink": "https://bisiesto.es/",
+            "hsPublished": "Hace 19 horas",
+            "jobLocation": "Tres Cantos, Comunidad de Madrid",
+            "jobTitle": "Junior",
+            "onSiteOrRemote": "Remoto",
+            "jobSalaryRange": "€25.000 - €30.000",
+            "isbn": "9788237619958",
+            "datePublished": "21 de Julio 2022",
+            "jobType": "Tiempo Completo",
+            "description": ""
+            }
+    ]
+}

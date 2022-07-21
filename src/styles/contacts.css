@@ -1,0 +1,102 @@
+body{
+    margin-top: 10vw;
+    display: flex;
+    justify-content: center;
+  }
+  
+header{
+    display: flex;
+}
+
+h1{
+      color: #7876C2;
+      font-family: 'PT Sans', sans-serif;
+      margin: 0;
+      letter-spacing: 0.40vw;
+  }
+  
+  .container{
+      border-radius: 2%;
+      padding: 4vw 8vw;
+      display: inline-flex;
+      flex-direction: column;
+      box-shadow: 1px 1px 12px;
+      margin-top: 45px;
+      margin-bottom: 25px;
+  }
+  
+  label{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: lighter;
+    margin-right: 4vw;
+  }
+  
+  .form-group{
+    margin: 4vw 0;
+    display: flex;
+  }
+  
+  input{
+    border-radius: 2vw !important;
+    width: 60vw !important;
+    border: 1px solid black;
+  }
+  
+  #btn{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 6vw;
+    margin-right: 1vw;
+  }
+  
+  #btn button{
+    background-color: #B560F1;
+      font-family: 'PT Sans', sans-serif;
+      color: white;
+      border-radius: 30px;
+      letter-spacing: 0.40vw;
+      border: 0;
+      padding: 1vw 1.5vw;
+  }
+  
+  #btn button:hover{
+    opacity: 0.5;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  
+  
+  textarea{
+    width: 60vw;
+    height: 8vw;
+    border-radius: 11px;
+    border: 1px solid #ced4da;
+  }
+
+
+ @media only screen and (min-width:350px){
+    #email-label{
+        margin-right: 9vw;
+    }
+    .container {
+    margin: 100px -10px 25px -3px;
+    }
+ }
+
+ @media only screen and (min-width:500px){
+    #email-label{
+        margin-right: 8vw;
+    }
+ }
+
+ @media only screen and (min-width:650px){
+    #email-label{
+        margin-right: 7vw;
+    }
+ }
+    @media only screen and (min-width: 950px){
+    #email-label {
+        margin-right: 5.6vw;
+ }
+}
