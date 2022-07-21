@@ -32,6 +32,7 @@ function ListCardJob (){
                             jobLocation={item.jobLocation} 
                             datePublished={item.datePublished} 
                             description={item.description} 
+                            details={item.details}
                             onSiteOrRemote={item.onSiteOrRemote} 
                         />
                     ))

@@ -2,9 +2,9 @@
     "joblist": [
         {
             "id": 1,
-            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHZYW658T5wnQ/company-logo_200_200/0/1656668414307?e=1666224000&v=beta&t=vNs0GLtKRYzkuFU7ZVpxuH8sctq8MmsGKxFITHUOiuI",
-            "jobName": "BackUp Engineer",
-            "companyName": "NTT DATA Europe & Latam",
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQE5QBG-mhja9g/company-logo_200_200/0/1625041348494?e=1666224000&v=beta&t=zUCPeQf6EuFPirhsJ424385eKYk9KA1vkcDCOFry5dQ",
+            "jobName": "Mobile Developer",
+            "companyName": "Thoughtworks",
             "companyLink": "https://es.nttdata.com/",
             "hsPublished": "Hace 12 horas",
             "jobLocation": "Barcelona Metropolitana",
@@ -14,7 +14,8 @@
             "isbn": "9788237635286",
             "datePublished": "21 de Julio 2022",
             "jobType": "Tiempo Completo",
-            "description": ""
+            "detail": "Para que un equipo prospere, necesita colaboración y espacio para un debate saludable y respetuoso. Los Developers son los tecnólogos que cultivan este entorno mientras impulsan a los equipos a cumplir una visión tecnológica aspiracional y actúan como mentores para más consultores de nivel junior. Aprovechará el conocimiento técnico profundo para resolver problemas comerciales más complejos y evaluar de manera proactiva la salud, la calidad del código y las canalizaciones no funcionales de su equipo. Responsabilidades de la posición Utilizarás prácticas de entrega continua para entregar software de alta calidad y valor a los clientes finales lo antes posible. Trabajarás en equipos colaborativos e impulsados por el valor para crear experiencias innovadoras para nuestros clientes. Crearás sistemas distribuidos a gran escala a partir de microservicios Aplicarás la última tecnología pensando en nuestro radar tecnológico para resolver problemas de clientes  Utilizarás eficientemente las herramientas y prácticas de DevOps para construir e implementar software Dirigirás o participarás en todo el ciclo de consultoría y entrega de software, desde la ideación hasta la implementación y todo lo demás. Actuarás como mentor para pares con menos experiencia a través de tus conocimientos técnicos y habilidades de liderazgo.  Requisitos de la posición  Habilidades técnicas  Tienes experiencia utilizando lenguaje de programación Kotlin  Sólido entendimiento de arquitectura web, plataformas de browser y desarrollo front-end Puedes escribir códigos de alta calidad y bien probados y te sientes cómodo con la programación orientada a objetos Tienes presencia en la comunidad tecnológica externa: compartes de forma proactiva tu experiencia con otros a través de charlas, contribuciones a código abierto, blogs y más Comodidad con métodos Agile, como la programación extrema (XP), Scrum y / o Kanban  Habilidades profesionales Te gusta influir en los demás y siempre abogas por la excelencia técnica mientras estás abierto al cambio cuando sea necesario. Eres resiliente en situaciones ambiguas y puedes abordar los desafíos desde múltiples perspectivas.",
+            "description": "Para que un equipo prospere, necesita colaboración y espacio para un debate saludable y respetuoso. Los Developers son los tecnólogos que cultivan este entorno mientras impulsan a los equipos a cumplir una visión tecnológica aspiracional y actúan como mentores para más consultores de nivel junior." 
             },{
             "id": 2,
             "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQG7UdOEvgDdbg/company-logo_200_200/0/1654870457151?e=1666224000&v=beta&t=CuBulpg5fR0PWNNZ4iKaCqCh7vsPPIdOc_zHcYlJAVc",
@@ -29,7 +30,8 @@
             "isbn": "9788437640732",
             "datePublished": "22 de Julio 2022",
             "jobType": "Tiempo Completo",
-            "description": ""
+            "description": "If you are looking for a new challenge and would like to take part of international projects within a multinational IT firm, this is your opportunity! ",
+            "detail": "If you are looking for a new challenge and would like to take part of international projects within a multinational IT firm, this is your opportunity! King is looking for a Backup and Data Protection engineer to design, deploy and maintain (in collaboration with the engineering team) a backup service for both physical/virtual system platforms. Knowledge of these services should also be associated to backup policy and disaster recovery solution planning. Desired requirements for the candidate would be: Deep understanding of backup policy strategies and disaster recovery solutions for physical virtual environments. Standard backup system implementation for both Unix and Windows based environments.General knowledge of several industry backup solution products such as: Veeam backup and Replication, Veritas NetBackup, Commvault. Knowledge of these services should also be associated to backup policy and disaster recovery solution planning as well as a solid background. Knowledge and proven exposure to industry standards. Availability to travel for short periods of time is desired and fluent English is a must.At NTT DATA, we believe everyone is unique and different, this is why we bet for an inclusive culture that recognizes and values diversity. We work day after day to create an environment in wich we can explore, live and enhance our own singularity. #WeAreAllUnique #YouMakeUsUnique. Job Description: If you want to create technology that enables game teams to deliver entertainment for millions of players then this is the job for you. We are looking for a Senior C++ Developer to drive innovation and collaboration across multiple teams at King. You will work across teams to facilitate both architectural decisions and hands- on development to support building features and tech. You should have a broad range of knowledge and be able to execute on complex technical plans. The ability to see long- term goals or project objectives is crucial as you monitor the development in real- time to determine how we should support and assist development. Your role within the Kingdom. With us, you'll get to work at the forefront of the mobile gaming business, in an energised and fun environment. At King, you're always right in the middle of the team, contributing with not only your programming skills but also with your passion for games and how to build them. You will be responsible for building tech that will help game teams continue to make our games great. Naturally you'll share your knowledge and skills with the rest of the team and King."
             },{
             "id": 3,
             "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHNmPM5niqmsg/company-logo_200_200/0/1656657060678?e=1666224000&v=beta&t=U1q5SPMAwF3Gs2UlT-F0NtiTWIT1z2jKyBC9SC9GX_U",
@@ -44,7 +46,8 @@
             "isbn": "9718415642855",
             "datePublished": "21 de Julio 2022",
             "jobType": "Media Jornada",
-            "description": ""
+            "description": "En Sngular nos encontramos en búsqueda de perfiles senior front-end con gusto por las buenas prácticas y con sólidos conocimientos de Javascript, se trabajará WebComponents y Cells será un plus.",
+            "detail": "¿A QUIÉN BUSCAMOS? En Sngular nos encontramos en búsqueda de perfiles senior front-end con gusto por las buenas prácticas y con sólidos conocimientos de Javascript, se trabajará WebComponents y Cells será un plus. Si estás buscando como reto la incorporación a una compañía que apuesta por la calidad y la entrega de valor a cliente, tenemos un lugar para ti. :) ¿QUÉ RESPONSABILIDADES TENDRÁS? Formarás parte de un equipo multidisciplinar que trabajará integrado y de manera remota dentro de un equipo agile internacional. ¿QUÉ REQUISITOS TÉCNICOS BUSCAMOS? Desarrolladores con iniciación en conocimientos en: Al menos 4 años de experiencia desarrollando con JS.  Te gusta el desarrollo front. Prestas atención a la optimización del código, buenas prácticas, estándares, clean code. Tienes un buen dominio de Javascript. Acostumbrado/a a trabajar con Agile (Scrum, Kamban). WebComponents ¿QUÉ HABILIDADES/SOFT SKILLS NOS GUSTARÍA QUE TUVIERAS? Buenas dotes comunicativas en español e inglés. Responsabilidad. Autogestión del tiempo y de las tareas. Estimación de tareas en tiempo y prioridad Trabajo en equipo"
             },{
             "id": 4,
             "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQErVO2UONearg/company-logo_200_200/0/1657040273354?e=1666224000&v=beta&t=-7AytUsS1k_0HDbgev2Q59MJutnvLYZGwTFDn8wtu6Y",
@@ -59,7 +62,8 @@
             "isbn": "9788486098914",
             "datePublished": "22 de Julio 2022",
             "jobType": "Media Jornada",
-            "description": ""
+            "description": "GeekSquare es un marketplace de compraventa a través de vídeo en directo (live shopping) de productos coleccionables y frikis. Nacemos con el propósito de reivindicar que todos somos frikis de algo, y con la misión de ser el punto de encuentro para todas aquellas personas que compartimos una misma pasión. ",
+            "detail": "GeekSquare es un marketplace de compraventa a través de vídeo en directo (live shopping) de productos coleccionables y frikis. Nacemos con el propósito de reivindicar que todos somos frikis de algo, y con la misión de ser el punto de encuentro para todas aquellas personas que compartimos una misma pasión. Tras validar el concepto de la compraventa en directo durante varios meses en Twitch con grandes resultados, recientemente hemos lanzado nuestra propia plataforma, donde las mejores tiendas y coleccionistas del país realizan sus propios directos. Hemos comenzado con la categoría de funko pops, con el objetivo de incorporar muchas más próximamente. Es por ello que buscamos a una persona que se incorpore al equipo de desarrollo (compuesto por 1 product manager, 1 backend y 1 frontend) con el objetivo de crear desde 0 las funcionalidades que nos hagan el marketplace de referencia en nuestra vertical en España. Es una gran oportunidad para contribuir a la rápida iteración de un producto, tener impacto real en una startup en pleno crecimiento y crear un equipo a tu alrededor. ¿Qué necesitarás para disfrutar de esta posición? Al menos, 3 años de experiencia con React.  Conocimientos de: Javascript y Typescript,  Redux, Git, AWS ¿Qué tareas vas a realizar? Desarrollo de funcionalidades desde 0 acorde con el feedback de nuestros usuarios. Mejorar la usabilidad y rendimiento para impactar positivamente las métricas de negocio. Coordinarse con el equipo encargado de desarrollar el Backend. Dirigir la evolución de la arquitectura front-end. Documentar los procesos y sistemas que construyas."
             },{
             "id": 5,
             "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFP9Lfi0W9zxw/company-logo_200_200/0/1547402731592?e=1666224000&v=beta&t=jLD6eCUbHuugzVsUfnQ_OEJoKVUYZ9HVlo6SvoXBuT0",
@@ -74,7 +78,24 @@
             "isbn": "9788237619958",
             "datePublished": "21 de Julio 2022",
             "jobType": "Tiempo Completo",
-            "description": ""
+            "description": "Desde Bisiesto Estudio 366º estamos buscando una Desarrolladora Full Stack Junior para agencia creativa internacional que maneja toda la publicidad global y los servicios web de una de las marcas automovilísticas referentes en el mercado.",
+            "detalle": "Desde Bisiesto Estudio 366º estamos buscando una Desarrolladora Full Stack Junior para agencia creativa internacional que maneja toda la publicidad global y los servicios web de una de las marcas automovilísticas referentes en el mercado. Te incorporarás al equipo de desarrollo dentro de sus oficinas de Barcelona centro (zona puerto olímpico).Requisitos: - Titulación técnica. - 1 año de experiencia en un rol similar. - Conocimientos y experiencia en Javascript y React. - Habilidades sociales; capacidad de comunicación y orientación a objetivos. - Inglés medio. - Interés por colaborar con una de las marcas referentes en el mundo de la automoción. La empresa ofrece un atractivo paquete retributivo que incluye: salario acorde a experiencia."
+            },{
+            "id": 6,
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHZYW658T5wnQ/company-logo_200_200/0/1656668414307?e=1666224000&v=beta&t=vNs0GLtKRYzkuFU7ZVpxuH8sctq8MmsGKxFITHUOiuI",
+            "jobName": "BackUp Engineer",
+            "companyName": "NTT DATA Europe & Latam",
+            "companyLink": "https://es.nttdata.com/",
+            "hsPublished": "Hace 12 horas",
+            "jobLocation": "Barcelona Metropolitana",
+            "jobTitle": "Mid-Senior",
+            "onSiteOrRemote": "Híbrido",
+            "jobSalaryRange": "(a consultar)",
+            "isbn": "9788237635286",
+            "datePublished": "21 de Julio 2022",
+            "jobType": "Tiempo Completo",
+            "description": "If you are looking for a new challenge and would like to take part of international projects within a multinational IT firm, this is your opportunity!",
+            "detail": "About the job: If you are looking for a new challenge and would like to take part of international projects within a multinational IT firm, this is your opportunity! NTT DATA is looking for a Backup and Data Protection engineer to design, deploy and maintain (in collaboration with the engineering team) a backup service for both physical/virtual system platforms. Knowledge of these services should also be associated to backup policy and disaster recovery solution planning. Desired requirements for the candidate would be: Deep understanding of backup policy strategies and disaster recovery solutions for physical virtual environments. Standard backup system implementation for both Unix and Windows based environments.General knowledge of several industry backup solution products such as: Veeam backup and Replication, Veritas NetBackup, Commvault. Knowledge of these services should also be associated to backup policy and disaster recovery solution planning as well as a solid background. Knowledge and proven exposure to industry standards. Availability to travel for short periods of time is desired and fluent English is a must.At NTT DATA, we believe everyone is unique and different, this is why we bet for an inclusive culture that recognizes and values diversity. We work day after day to create an environment in wich we can explore, live and enhance our own singularity. #WeAreAllUnique #YouMakeUsUnique"
             }
     ]
 }
