@@ -1,5 +1,5 @@
 # Winjob
-##Página web de empleo
+## Página web de empleo
 
 El proyecto está pensado con un fin social que busque ayudar a una minoría como lo son las mujeres a encontrar un entorno dónde sus necesidades como la búsqueda de empleo sean atendidas.<br>
 El nombre está pensado mayoritariamente como un juego de palabras en donde “Win” viene del anglicismo “ganar” y “Job” de trabajo. La primera W siempre en mayúscula va a representar a las mujeres del anglicismo “women”. 
@@ -12,7 +12,7 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 4. [Autores](#Autores)
 5. [Licencia](#Licencia)
 
-![Alt text](https://github.com/AleMCuitino/Portafolio/blob/main/ImagenesReadme/Mockup.png)
+![Alt text]()
 Imagen 1: Página principal.
 <br>
 <br>
@@ -32,8 +32,14 @@ Una lista de las tecnologías utilizadas en el proyecto:
 * [Node.Js](https://nodejs.org/es/): Version v16.16.0
 * [Technologie name](https://example.com): Version 2.34
 * [Library name](https://example.com): Version 1234
-## Installation
-***
+<br>
+
+## Autores
+
+Niguisasola Nika
+AleMCuitino Alejandra
+FerNandaRM05 Fernanda
+
 
 
 ## Licencia
