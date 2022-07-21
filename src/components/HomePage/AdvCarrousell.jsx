@@ -40,6 +40,15 @@ return (
         </button>
       </div>
     </section>
+    <div className="navOffers">
+          <ul>
+            <li>OFERTAS</li>
+            <li>soy empresa</li>
+            < Link to="/AddNewOfferPage">
+            <li>ofertar empleos</li>
+            </Link>
+          </ul>
+        </div>
 </>
     )
 }

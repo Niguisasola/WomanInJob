@@ -15,5 +15,3 @@ function HomePage() {
 }
 
 export default HomePage;
-
-//Añadir 'Footer' & 'AdvCarrousel' cuando esté listo

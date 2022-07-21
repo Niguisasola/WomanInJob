@@ -1,0 +1,23 @@
+.background{
+    background-color:#7876C2 ;
+    color: white;
+}
+ 
+h4{
+    color:#7876C2;
+}
+ 
+a{
+    text-decoration: none;
+    color: black;
+}
+ 
+#card-image{
+    width: 20%;
+    height: 40%;
+}
+ 
+#card-text{
+    width: 50%;
+    height: 50%;
+}
