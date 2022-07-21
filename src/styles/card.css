@@ -1,23 +1,28 @@
 .card.background{
     background-color:#7876C2 ;
     color: white;
-}
- 
-h4{
+ }
+ h4{
     color:#7876C2;
-}
- 
-a{
+ }
+ a{
     text-decoration: none;
     color: black;
-}
- 
-#card-image{
-    width: 20%;
+ }
+ #card-image{
+    width: 60vh;
     height: 40%;
-}
- 
-#card-text{
+ }
+  
+ #iconsCards {
+    color: #7876C2;
+ }
+ #card-text{
     width: 50%;
     height: 50%;
-}
+ }
+  
+ .accordion-button {
+    background-color:#7876C2;
+ }
+ 
