@@ -1,4 +1,5 @@
 # Winjob
+***
 ## Página web de empleo
 
 El proyecto está pensado con un fin social que busque ayudar a una minoría como lo son las mujeres a encontrar un entorno dónde sus necesidades como la búsqueda de empleo sean atendidas.<br>
@@ -6,8 +7,12 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 <br>
 <br>
 
-
-<img src="img/winjob.PNG">
+<div class="col-lg-10 ccol-lg-offset-1 col-md-12 col-sm-12 ">
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+        <img style:"display:flex" src="img/winjob.PNG">
+        <p class="text-center"><a href="javascript:void(0);">Taj Group</a></p>
+    </div>
+ </div>
 <br>
 
 ## Tabla de contenidos
@@ -19,6 +24,7 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 
 
 ## Instalación
+***
 Puedes instalarlo desde npm
 <br>
 $ git clone https://github.com/Niguisasola/WomanInJob.git<br>
@@ -35,10 +41,10 @@ Una lista de las tecnologías utilizadas en el proyecto:
 
 ## Autores
 ***
-Niguisasola Nika
-AleMCuitino Alejandra
-FerNandaRM05 Fernanda
-BarbaraSantano Bárbara
+Niguisasola Nika<br>
+AleMCuitino Alejandra<br>
+FerNandaRM05 Fernanda<br>
+BarbaraSantano Bárbara<br>
 
 ## Licencia
 ***
