@@ -7,7 +7,7 @@ return(
 <>
     <div className = "">
             <Link to ="/Home">
-            <img className="welcome-img" src={WelcomePhoto} alt = "Imagen Women in Job"/>
+              <img className="welcome-img img-fluid" src={WelcomePhoto} alt = "Imagen Women in Job"/>
             </Link>
     </div>
 </>
