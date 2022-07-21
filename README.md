@@ -7,10 +7,11 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 <br>
 
 
-![Image text](https://github.com/Niguisasola/WomanInJob/src/assets/data/img/winjob.PNG)
+<img src="img/winjob.PNG">
 <br>
 
 ## Tabla de contenidos
+***
 1. [Instalación](#Instalación)
 2. [Tecnologías](#Tecnologías)
 3. [Autores](#Autores)
@@ -30,18 +31,15 @@ $ npm start
 ***
 Una lista de las tecnologías utilizadas en el proyecto:
 * [Node.Js](https://nodejs.org/es/): Version v16.16.0
-
 <br>
 
 ## Autores
-
+***
 Niguisasola Nika
 AleMCuitino Alejandra
 FerNandaRM05 Fernanda
 BarbaraSantano Bárbara
 
-
-
 ## Licencia
-
+***
 TEAM 19
