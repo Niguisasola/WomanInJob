@@ -7,7 +7,7 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 <br>
 
 
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](https://github.com/Niguisasola/WomanInJob/src/assets/data/img/winjob.PNG)
 <br>
 
 ## Tabla de contenidos
@@ -20,9 +20,9 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 ## Instalación
 Puedes instalarlo desde npm
 <br>
-$ git clone https://github.com/Niguisasola/WomanInJob.git
-$ cd ../path/to/the/file
-$ npm install
+$ git clone https://github.com/Niguisasola/WomanInJob.git<br>
+$ cd ../path/to/the/file<br>
+$ npm install<br>
 $ npm start
 <br>
 
@@ -38,6 +38,7 @@ Una lista de las tecnologías utilizadas en el proyecto:
 Niguisasola Nika
 AleMCuitino Alejandra
 FerNandaRM05 Fernanda
+BarbaraSantano Bárbara
 
 
 
