@@ -1,0 +1,15 @@
+:root {
+    --primary: #A5C882;
+    --secondary: #D33F49;
+    --light: #fff;
+    --dark: rgb(171, 22, 240);
+    --diabled:rgb(171, 22, 240);
+    --tertiary:#EEBCDD;
+  }
+
+.is-favorite{
+    background-color: var(--diabled);
+    text-decoration: line-through;
+    color: var(--dark);
+    border: solid 2px var(--dark);
+}
