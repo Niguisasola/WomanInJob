@@ -18,7 +18,16 @@ function JobDetailPage() {
   return (
     <> 
         <NavBar/>     
-        {/* <InfoDetailJob send job props /> */}
+        <InfoDetailJob   id={wjob.id} 
+                          companyName={wjob.companyName} 
+                          hsPublished={wjob.hsPublished} 
+                          jobLocation={wjob.jobLocation} 
+                          onSiteOrRemote={wjob.onSiteOrRemote} 
+                          description={wjob.description} 
+                          datePublished={wjob.datePublished} 
+                          jobTitle={wjob.jobTitle} 
+                          companyLink={wjob.companyLink} 
+                          companyLogo={wjob.companyLogo}/>
         {console.log(wjob)}
     </>
   );
