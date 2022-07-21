@@ -1,8 +1,9 @@
 import React, {useState, useEffect} from "react";
-import axios from "axios";
+import axios from "axios"; 
+import "../../styles/infodetailjob.css"
 
 
-function InfoDetailJob ({ id, jobName, companyName, hsPublished, jobLocation, onSiteOrRemote, description, datePublished, jobTitle, companyLink, companyLogo}) 
+function InfoDetailJob ({ id, jobName, companyName, hsPublished, jobLocation, onSiteOrRemote, detail, datePublished, jobTitle, companyLink, companyLogo}) 
 {
     return(
         <>
@@ -24,9 +25,10 @@ function InfoDetailJob ({ id, jobName, companyName, hsPublished, jobLocation, on
                         <li className="card-text">{companyName}</li>
                         </a>
                         <li>"Publicado "{hsPublished}</li>
-                        <li>{description}</li>
                     </ul>
-                </div>
+               </div>
+               <div className="{detail}">
+               </div>
             </div>
         </div>
         </>
