@@ -14,10 +14,6 @@ function InfoDetailJob (){
         <>
         <div className="infoDetail d-flex justify-content-center card mb-3 w-50 h-auto mt-5 ">
         
-        
-        
-        
-        
         <div className="contentJobs ">
                 {
                     wjob.map((item, index)=>(
@@ -37,9 +33,6 @@ function InfoDetailJob (){
                     ))
                 }
             </div>
-
-
-
 
                 <div className="row g-0">
                     <div className="col-md-4 d-flex align-items-center">

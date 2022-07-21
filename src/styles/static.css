@@ -49,3 +49,10 @@
     padding: 2%;
  }
  
+ .search {
+    max-width: 30px;
+ }
+
+ .bar {
+   width: 300px;
+ }

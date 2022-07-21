@@ -1,6 +1,6 @@
 body{
-    margin-top: 10vw;
-    display: flex;
+    /* margin-top: 10vw;
+    display: flex; */
     justify-content: center;
   }
   
@@ -37,8 +37,8 @@ h1{
   }
   
   input{
-    border-radius: 2vw !important;
-    width: 60vw !important;
+    border-radius: 2vw; /*important*/
+    width: 60vw; /*important*/
     border: 1px solid black;
   }
   

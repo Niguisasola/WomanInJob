@@ -1,5 +1,6 @@
 import {Link, NavLink} from "react-router-dom"
 import logo from '../../assets/data/img/logo.png'
+import lupa from '../../assets/data/img/search.png'
 
 function NavBar (){
   return (
@@ -10,21 +11,21 @@ function NavBar (){
          </div>
         
          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-           <span className="navbar-toggler-icon"><i class="fa-solid fa-bars"></i></span>
+           <span className="navbar-toggler-icon"><i className="fa-solid fa-bars"></i></span>
          </button>
          <div className="collapse navbar-collapse" id="navbarSupportedContent">
            <ul className="navbar-nav mr-auto">
              <li className="nav-item active">
-               <Link className="nav-link pl-4" to="/CategoryList">Contacto<span className="sr-only"></span></Link>
+               <NavLink className="nav-link pl-4" to="/contactus">Contacto<span className="sr-only"></span></NavLink>
              </li>
              <li className="nav-item">
-               <Link className="nav-link pl-4" to="/Product">Favoritos</Link>
+               <NavLink className="nav-link pl-4" to="/jobfavorites">Favoritos</NavLink>
              </li>
            </ul>
          </div>
-           <form class="d-flex" role="search">
-                 <input class="form-control" type="search" aria-label="Search"></input>
-                 <button class="btn btn-outline-success" type="submit"><i class="fa-solid fa-search"></i></button>
+           <form className="d-flex bar" role="search">
+                 <input className="form-control" type="search" aria-label="Search"></input>
+                 <button className="btn btn-outline-success" type="submit"><img className="search" src={lupa}></img><i className="fa-solid fa-search"></i></button>
            </form>
        </nav>
      </div>
