@@ -36,10 +36,10 @@ Una lista de las tecnologías utilizadas en el proyecto:
 
 ## Autores
 ***
-Niguisasola Nika<br>
-AleMCuitino Alejandra<br>
-FerNandaRM05 Fernanda<br>
-BarbaraSantano Bárbara<br>
+Niguisasola - Nika<br>
+AleMCuitino - Alejandra<br>
+FerNandaRM05 - Fernanda<br>
+BarbaraSantano - Bárbara<br>
 <br>
 
 ## Licencia
