@@ -15,7 +15,7 @@ function InfoDetailJob({ id, jobName, companyName, hsPublished, jobLocation, onS
                                 <li><h5 className="card-title">{jobName}</h5></li>
                                 <a href={companyLink}>
                                     <li className="card-text">{companyName}</li></a>
-                                <li className="card-publish">"Publicado "{hsPublished}</li>
+                                <li className="card-publish">"Publicado" {hsPublished}</li>
                                 <li>{description}</li>
                             </ul>
                         </div>
