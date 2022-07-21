@@ -7,12 +7,7 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 <br>
 <br>
 
-<div class="col-lg-10 ccol-lg-offset-1 col-md-12 col-sm-12 ">
-    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-        <img style:"display:flex" src="img/winjob.PNG">
-        <p class="text-center"><a href="javascript:void(0);">Taj Group</a></p>
-    </div>
- </div>
+<img src="img/winjob.PNG" alt="diseño página principal">
 <br>
 
 ## Tabla de contenidos
@@ -21,7 +16,7 @@ El nombre está pensado mayoritariamente como un juego de palabras en donde “W
 2. [Tecnologías](#Tecnologías)
 3. [Autores](#Autores)
 4. [Licencia](#Licencia)
-
+<br>
 
 ## Instalación
 ***
